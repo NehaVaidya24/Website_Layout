@@ -7,7 +7,7 @@ This template includes a navigation bar, image slider, content section, product 
 
 > Replace the path with your image file after uploading it to GitHub.
 
-![Website Screenshot](website-image.jpg)
+![Website Screenshot](./website-image.png)
 
 ## 🚀 **Features**
 
