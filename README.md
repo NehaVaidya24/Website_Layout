@@ -3,15 +3,11 @@
 A clean and responsive website layout built using **HTML**, **CSS**, and **Font Awesome Icons**.  
 This template includes a navigation bar, image slider, content section, product showcase, and a structured footer.
 
----
-
 ## 📸 **Project Preview**
 
 > Replace the path with your image file after uploading it to GitHub.
 
-![Website Screenshot](./preview/website-screenshot.png)
-
----
+![Website Screenshot](website-image.jpg)
 
 ## 🚀 **Features**
 
@@ -26,8 +22,6 @@ This template includes a navigation bar, image slider, content section, product 
 - **Smooth UI with Rounded Cards**
 - **Google Fonts (Ubuntu) Integration**
 - **Font Awesome Icons Support**
-
----
 
 ## 🛠️ **Technologies Used**
 
